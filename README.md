@@ -1,4 +1,4 @@
 # SO2-Projekt
 
-Compile: "make"
+Compile: "make"  
 Run: "./main"
